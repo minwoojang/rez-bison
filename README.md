@@ -1,2 +1,4 @@
-# rez-bison
+rez-bison
+===
+
 Rez build configuration for Bison.
